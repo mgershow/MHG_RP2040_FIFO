@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For MHG_RP2040_FIFO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MHG_RP2040_FIFO	KEYWORD1
+MeasurementDataT	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+push	KEYWORD2
+push_nb	KEYWORD2
+pop	KEYWORD2
+pop_nb	KEYWORD2
+availableToRead	KEYWORD2
+availableToWrite	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
